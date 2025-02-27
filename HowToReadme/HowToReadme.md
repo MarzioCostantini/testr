@@ -6,7 +6,7 @@
 #### Noch kleiner (H4)
 
 <!-- ! Bilder -->
-![Alt-Text](".public/mockup.png" "Bildbeschreibung")
+![Alt-Text]("./mockup.png" "Bildbeschreibung")
 
 <!-- ! Link -->
 [Hier klicken](https://example.com)
