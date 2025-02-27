@@ -7,9 +7,6 @@
 
 <!-- ! Bilder -->
 ![Alt-Text](public/mockup.png "Bildbeschreibung")
-![Alt-Text](./mockup.png "Bildbeschreibung 1")
-![Alt-Text](mockup.png "Bildbeschreibung 1")
-![Alt-Text](./vite.svg "Bildbeschreibung 2")
 
 <!-- ! Link -->
 [Hier klicken](https://example.com)
